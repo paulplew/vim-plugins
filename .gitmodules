@@ -7,3 +7,6 @@
 [submodule "plugins/start/wakatime"]
 	path = plugins/start/wakatime
 	url = git://github.com/wakatime/vim-wakatime.git
+[submodule "plugins/start/emmet-vim"]
+	path = plugins/start/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
