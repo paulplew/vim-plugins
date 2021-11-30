@@ -10,3 +10,6 @@
 [submodule "plugins/start/emmet-vim"]
 	path = plugins/start/emmet-vim
 	url = https://github.com/mattn/emmet-vim.git
+[submodule "plugins/start/indentLine"]
+	path = plugins/start/indentLine
+	url = https://github.com/Yggdroot/indentLine.git
