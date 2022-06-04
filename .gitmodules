@@ -13,3 +13,9 @@
 [submodule "plugins/start/indentLine"]
 	path = plugins/start/indentLine
 	url = https://github.com/Yggdroot/indentLine.git
+[submodule "plugins/start/vim-commentary"]
+	path = plugins/start/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "plugins/start/rust.vim"]
+	path = plugins/start/rust.vim
+	url = https://github.com/rust-lang/rust.vim
